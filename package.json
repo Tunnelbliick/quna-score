@@ -1,13 +1,13 @@
 {
   "name": "quna-score",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Uranked score handling for quna",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "lint": "tslint -p tsconfig.json",
-    "build" : "tsc"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
